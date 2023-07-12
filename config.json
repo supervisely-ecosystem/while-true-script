@@ -13,7 +13,7 @@
     "standalone",
     "image_annotation_tool"
   ],
-  "icon": "https://img.icons8.com/color/96/000000/infinity.png",
+  "icon": "https://github.com/supervisely-ecosystem/while-true-script/assets/48245050/b307d9f3-edd7-4e96-86f6-3a865c1632d2",
   "icon_background": "#FFFFFF",
   "session_tags": [
     "deployed_nn",
