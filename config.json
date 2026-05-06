@@ -1,11 +1,12 @@
 {
     "name": "While True Script",
     "type": "app",
+    "instance_version": "6.15.60",
     "categories": [
         "development"
     ],
     "description": "Used to create infinite task for debug",
-    "docker_image": "supervisely/development:0.0.1",
+    "docker_image": "supervisely/development:6.73.564",
     "main_script": "src/main.py",
     "task_location": "application_sessions",
     "isolate": true,
